@@ -7,10 +7,10 @@ After I finished my Master, I started to look for information about Data Science
 ##
 <div style="display: inline_block">
 <a href="https://github.com/icaromisquita/github-readme-stats">
-  <img align="center" height="180em" src="github-readme-stats-blond-kappa-52.vercel.app/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" height="180em" src="https://github.com/icaromisquita/github-readme-stats/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/icaromisquita/github-readme-stats">
-  <img align="center" height="165em" src="github-readme-stats-blond-kappa-52.vercel.app/api/top-langs/?username=icaromisquita" />
+  <img align="center" height="165em" src="https://github.com/icaromisquita/github-readme-stats/api/top-langs/?username=icaromisquita" />
 </a>
 </div>  
 <div style="display: inline_block">
