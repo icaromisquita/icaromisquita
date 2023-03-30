@@ -5,12 +5,16 @@ Hello!!! </br>
 After I finished my Master, I started to look for information about Data Science and also in parallel my process to move to Germany. I started to take online courses about Data Science at Alura, a Brazilian online coding school. There I discovered a new passion, that is to analyze data and the storytelling with data, to transform complex numbers and disconnected information in valuable information fascinates me. For that reason, I decided to focus entirely on my technical aspirations by starting a bootcamp to become a full-fledged data-scientist. I them made a Bootcamp at WBS Coding School, it lasted from 24.06 to 7.10.2022.  
 </p>
 ##
+
+
+<img align="center" height="180em" src="icaromisquita-github-readme-stats.vercel.app/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark" />
+
 <div style="display: inline_block">
 <a href="https://github.com/icaromisquita/github-readme-stats">
-  <img align="center" height="180em" src="https://github.com/icaromisquita/github-readme-stats/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" height="180em" src="icaromisquita-github-readme-stats.vercel.app/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark"" />
 </a>
 <a href="https://github.com/icaromisquita/github-readme-stats">
-  <img align="center" height="165em" src="https://github.com/icaromisquita/github-readme-stats/api/top-langs/?username=icaromisquita" />
+  <img align="center" height="165em" src="icaromisquita-github-readme-stats.vercel.app/api/top-langs/?username=icaromisquita" />
 </a>
 </div>  
 <div style="display: inline_block">
