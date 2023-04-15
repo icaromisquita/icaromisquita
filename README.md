@@ -21,7 +21,7 @@ After I finished my Master, I started to look for information about Data Science
   <img align="center" alt="Icaro-TensorFlow" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg">
   <img align="center" alt="Icaro-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Icaro-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Icaro-Amazon" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+  <img align="center" alt="Icaro-Amazon" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Icaro-Anaconda" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="Icaro-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
