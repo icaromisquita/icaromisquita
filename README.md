@@ -66,7 +66,7 @@ MODULE: DATA AND BUSINESS
     </ul>
 </ul>
 </section>
-##
+
 <div style="display: inline_block">
 <a href="https://github.com/icaromisquita/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark"" />
