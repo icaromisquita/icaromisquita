@@ -32,7 +32,7 @@ MODULE: DEVELOPMENT
      <li>Change Management</li>
   </ul>
   
-• MODULE: MANAGEMENT AND CLOUD
+MODULE: MANAGEMENT AND CLOUD
   <ul style="list-style-type:none">
       <li>Microservices</li>
       <li>Authentication and Security in Microservices</li>
@@ -48,7 +48,7 @@ MODULE: DEVELOPMENT
       <li>Fundamentals of Information Security</li>
       <li>Investments and Company Valuation</li>
   </ul>
-• MODULE: DATA AND BUSINESS
+MODULE: DATA AND BUSINESS
   <ul style="list-style-type:none">
       <li>Data Engineering</li>
       <li>Event Storming in Software Projects</li>
