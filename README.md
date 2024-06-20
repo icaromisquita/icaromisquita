@@ -3,7 +3,7 @@ Hello!!! </br>
   I am an Agricultural and Environmental Engineer (UFRRJ), M.Sc in Energy Technology (IEE-USP). I have expertise in energy generation from renewable resources. My skills included: elaboration of maps using Software QGIS® and ArcGIS®, delimitation of hydrographic basins and computational modelling using Softwares such as HruWeb, ArcSWAT and JAMS.</br>
 <p font-family:"Arial" font-size: 2em;  >
 After I finished my Master, I started to look for information about Data Science and also in parallel my process to move to Germany. I started to take online courses about Data Science at Alura, a Brazilian online coding school. There I discovered a new passion, that is to analyze data and the storytelling with data, to transform complex numbers and disconnected information in valuable information fascinates me. For that reason, I decided to focus entirely on my technical aspirations by starting a bootcamp to become a full-fledged data-scientist. I them made a Bootcamp at WBS Coding School, it lasted from 24.06 to 7.10.2022.  
-In June 2024 I started a MBA in Software Engineering at <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software">USP-Esalq</a> it is schedule to finish in january 2026. </p>
+In June 2024 I started a MBA in Software Engineering at <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software" target="_blank" rel="noreferrer noopener"><b><i>USP-Esalq</i></b></a> it is schedule to finish in january 2026. </p>
   
  <section>
   The MBA is divided in 4 modules:
