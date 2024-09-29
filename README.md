@@ -6,69 +6,7 @@ Hello!!! </br>
 After I finished my Master, I started to look for information about Data Science and also in parallel my process to move to Germany. I started to take online courses about Data Science at Alura, a Brazilian online coding school. There I discovered a new passion, that is to analyze data and the storytelling with data, to transform complex numbers and disconnected information in valuable information fascinates me. For that reason, I decided to focus entirely on my technical aspirations by starting a bootcamp to become a full-fledged data-scientist. I them made a Bootcamp at WBS Coding School, it lasted from 24.06 to 7.10.2022.  
 In June 2024 I started a MBA in Software Engineering at <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software" target="_blank" rel="noreferrer noopener"><b><i>USP-Esalq</i></b></a> it is schedule to finish in january 2026. 
 </p>
-  
- <section>
-  The MBA is divided in 4 modules:
-  
-<ul style="list-style-type:disc">
-INTRODUCTORY MODULE – BOOTCAMP STANDARD
-  <ul style="list-style-type:none">
-    <li>Frontend Development I – HTML and CSS</li>
-    <li>Frontend Development II – JavaScript</li>
-    <li>Backend Development I – Creating a backend with Python</li>
-    <li>Backend Development II – Django</li>
-  </ul>
-  
-MODULE: DEVELOPMENT
-
-  <ul style="list-style-type:none">
-     <li>Test Management (TDD)</li>
-     <li>Domain Driven Design (DDD)</li>
-     <li>Design Patterns</li>
-     <li>NoSQL vs. SQL</li>
-     <li>Mobile Architecture</li>
-     <li>Micro-front-end</li>
-     <li>Software Development Paradigms</li>
-     <li>API Management and Structuring</li>
-     <li>IoT</li>
-     <li>Change Management</li>
-  </ul>
-  
-MODULE: MANAGEMENT AND CLOUD
-  <ul style="list-style-type:none">
-      <li>Microservices</li>
-      <li>Authentication and Security in Microservices</li>
-      <li>Container Orchestration (Kubernetes)</li>
-      <li>Service Containerization (Docker)</li>
-      <li>Cloud Computing (IaaS, PaaS, SaaS)</li>
-      <li>Infrastructure as Code (IaC)</li>
-      <li>Serverless</li>
-      <li>DevOps</li>
-      <li>Agile Methods</li>
-      <li>User Experience (UX)</li>
-      <li>Communication</li>
-      <li>Fundamentals of Information Security</li>
-      <li>Investments and Company Valuation</li>
-  </ul>
-MODULE: DATA AND BUSINESS
-  <ul style="list-style-type:none">
-      <li>Data Engineering</li>
-      <li>Event Storming in Software Projects</li>
-      <li>Trends in Artificial Intelligence and Big Data</li>
-      <li>Observability and Monitoring</li>
-      <li>Leadership in Technology Projects</li>
-      <li>Clean Architecture</li>
-      <li>Machine Learning Techniques</li>
-      <li>Digital Environment Legislation (LGPD)</li>
-      <li>Design Thinking</li>
-      <li>Mindset Canvas and Business Plan</li>
-      <li>Conflict Management</li>
-      <li>Emotional Intelligence</li>
-      <li>Blockchain and Cryptocurrencies</li>
-    </ul>
-</ul>
-</section>
-
+ 
 <div style="display: inline_block">
 <a href="https://github.com/icaromisquita/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=icaromisquita&count_private=true&show_icons=true&theme=dark"" />
