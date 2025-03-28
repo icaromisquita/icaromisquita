@@ -1,11 +1,11 @@
-<p font-family:"Arial"; align="justify"; font-size:2rem;>
-Hello!!! </br>
-  I am an Agricultural and Environmental Engineer (UFRRJ), M.Sc in Energy Technology (IEE-USP). I have expertise in energy generation from renewable resources. My skills included: elaboration of maps using Software QGIS® and ArcGIS®, delimitation of hydrographic basins and computational modelling using Softwares such as HruWeb, ArcSWAT and JAMS.<br>
+<p style="font-family: Arial; text-align: justify; font-size: 2rem;">
+  Hello! <br />
+  I am an Agricultural and Environmental Engineer (UFRRJ) with an M.Sc. in Energy Technology (IEE-USP). My expertise lies in energy generation from renewable resources. My skills include: map creation using QGIS® and ArcGIS®, hydrographic basin delineation, and computational modeling with software such as HruWeb, ArcSWAT, and JAMS.
 </p>
-<p font-family:"Arial"; align="justify"; font-size:2rem;>
-After I finished my Master, I started to look for information about Data Science and also in parallel my process to move to Germany. I started to take online courses about Data Science at Alura, a Brazilian online coding school. There I discovered a new passion, that is to analyze data and the storytelling with data, to transform complex numbers and disconnected information in valuable information fascinates me. For that reason, I decided to focus entirely on my technical aspirations by starting a bootcamp to become a full-fledged data-scientist. I them made a Bootcamp at WBS Coding School, it lasted from 24.06 to 7.10.2022.  
-In June 2024 I started a MBA in Software Engineering at <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software" target="_blank" rel="noreferrer noopener"><b><i>USP-Esalq</i></b></a> it is schedule to finish in january 2026. <br>
-  Now in transition to Web Development, learning HTML, CSS and JavaScript with <a href="https://www.coursera.org" target="_blank"><i>Cousera</i></a>.
+<p style="font-family: Arial; text-align: justify; font-size: 2rem;">
+  After completing my Master's degree, I began exploring Data Science while simultaneously preparing for my move to Germany. I started taking online Data Science courses at Alura, a Brazilian online coding school. There, I discovered a new passion: analyzing data and crafting compelling narratives from it. Transforming complex numbers and disparate information into valuable insights fascinates me. This led me to fully pursue my technical aspirations by enrolling in a data science bootcamp. I completed a bootcamp at WBS Coding School from June 24th to October 7th, 2022.
+  In June 2024, I began an MBA in Software Engineering at <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software" target="_blank" rel="noopener noreferrer"><b><i>USP-Esalq</i></b></a>, scheduled for completion in January 2026. <br />
+  Currently, I am transitioning to Web Development, learning HTML, CSS, and JavaScript through <a href="https://www.coursera.org" target="_blank"><i>Coursera</i></a>.
 </p>
  
 <div style="display: inline_block">
